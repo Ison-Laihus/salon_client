@@ -1,0 +1,27 @@
+{
+  "pages":[
+    
+    "pages/login/login",
+    "pages/register/register",
+    "pages/index/index",
+
+    "pages/projects/create",
+    "pages/projects/details",
+    "pages/projects/projects",
+
+    "pages/news/news",
+    "pages/news/details",
+    "pages/news/create",
+    
+    "pages/addCgi/addCgi",
+    "pages/notation/notation",
+    "pages/notation/create"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "沙龙",
+    "navigationBarTextStyle": "black"
+  }
+}
